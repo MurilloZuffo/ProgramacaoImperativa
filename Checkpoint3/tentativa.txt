@@ -1,0 +1,22 @@
+Desafio 1-
+Construtora criada com todos os métodos 
+Desafio 2-
+Metodo Criado 
+Desafio 3-
+Feito
+Desafio 4-
+Feito o exporte da construtora, pegando os alunos criados na aba principal e colocando eles dentro do curso.
+Porém por algum motivo está trazendo o nome da função e não o resultado na chamada.
+Desafio 5- 
+Não consegui
+Desafio 6-
+Não consegui
+Desafio 7-
+Já estava utilizando a lista da primeira aba na construção então creio que ok.
+
+
+A ideia era criar uma construtora na pasta estudante com suas medias e faltas-ok
+que vai receber os alunos da principal - ok, tentei fazer tudo linkado onde terminaria fazendo apenas uma chamada.
+
+
+Executar cursos.js no node
